@@ -1,6 +1,7 @@
 Multi-tenancy with OAuth 2.0 and Spring Security
 ------------------
 Video: https://www.youtube.com/watch?v=ke13w8nab-k&t=13s
+
 This repo consists of four [Spring Boot](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html) applications that are secured using [Spring Security](https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/) and [OAuth 2.0](https://oauth.net/2/).
 
 For the application to work, please take the following steps after cloning to your local machine:
